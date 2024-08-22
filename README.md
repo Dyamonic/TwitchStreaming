@@ -3,4 +3,6 @@ Steps :
 - Make sure to place a alt twitch account.
 
 Commands : 
-/streamTime - /streamRegister - /rewardTiers
+/streamTime `permission: twitchstreaming.streamtime`
+/streamRegister `permission: twitchstreaming.streamregister`
+/rewardTiers `permission: twitchstreaming.rewardstier`
