@@ -4,7 +4,3 @@ Steps :
 
 Commands : 
 /streamTime - /streamRegister - /rewardTiers
-
-Alert ex. :
-start-stream: "{channel} started to stream! Follow them at {url}!" , 
-stop-stream: "{channel} stopped streaming! Follow them at {url}!"
